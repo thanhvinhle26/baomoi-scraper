@@ -45,8 +45,7 @@ All data result in output folder include : article_links.json, entity_distributi
 ]
 }
 ```
-**Analizer Information**
-```
+**Analyzer Information**
 To analyze the content of articles on the topic of Vietnamese football, I used the VnCoreNLP-1.2 tool to identify the main entities in each sentence such as the name of peoples and positions labeled as B-Per and B-Loc. Then the entities will be calculated for their frequency of appearance in the articles and displayed on the chart.
 Entities Information
 
@@ -82,7 +81,6 @@ Entities Information
 ```
 Entities distribution chart
 ![Distribution chart](./output/entity_distribution.png)
-```
 
 
 

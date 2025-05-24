@@ -4,7 +4,7 @@
 	Install Docker
 ```
 ## How To Run
-```
+
 **Build docker**
 ```
 	docker build -t baomoi-scraper .
@@ -18,8 +18,9 @@
 
 All data result in output folder include : article_links.json, entity_distribution.json, entity_distribution.png
 
-**Article Link
+**Article Link**
 Example
+
 ```json
 {
   "metadata": {
@@ -45,7 +46,7 @@ Example
 ]
 }
 ```
-** Analizer Information
+**Analizer Information**
 To analyze the content of articles on the topic of Vietnamese football, I used the VnCoreNLP-1.2 tool to identify the main entities in each sentence such as the names of people and positions labeled as B-Per and B-Loc. Then the entities will be calculated for their frequency of appearance in the articles and displayed on the chart.
 Entities Information
 

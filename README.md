@@ -45,6 +45,44 @@ Example
 ]
 }
 ```
+** Analizer Information
+To analyze the content of articles on the topic of Vietnamese football, I used the VnCoreNLP-1.2 tool to identify the main entities in each sentence such as the names of people and positions labeled as B-Per and B-Loc. Then the entities will be calculated for their frequency of appearance in the articles and displayed on the chart.
+Entities Information
+
+```json
+{
+  "metadata": {
+    "source": "baomoi.com",
+    "total_entities": 50
+  },
+  "entities": [
+    {
+      "text": "Việt Nam",
+      "type": "LOC",
+      "count": 535
+    },
+    {
+      "text": "Công Phượng",
+      "type": "PER",
+      "count": 218
+    },
+    {
+      "text": "Malaysia",
+      "type": "LOC",
+      "count": 191
+    },
+    {
+      "text": "Đà Nẵng",
+      "type": "LOC",
+      "count": 168
+    }
+]
+}
+```
+Entities distribution chart
+![Distribution chart](./ouput/entity_distribution.png)
+
+
 
 
 

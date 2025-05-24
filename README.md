@@ -5,7 +5,7 @@
 ```
 ## How To Run
 ```
-**Build docker
+**Build docker**
 ```
 	docker build -t baomoi-scraper .
 ```
@@ -13,7 +13,9 @@
 ```
 	mkdir -p output && docker run -v $(pwd)/output:/app/output baomoi-scraper
 ```
-## Crawler result
+
+## Scraper result
+
 All data result in output folder include : article_links.json, entity_distribution.json, entity_distribution.png
 
 **Article Link

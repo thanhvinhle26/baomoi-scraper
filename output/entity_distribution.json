@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "source": "baomoi.com",
+    "total_entities": 50
+  },
+  "entities": [
+    {
+      "text": "Việt Nam",
+      "type": "LOC",
+      "count": 535
+    },
+    {
+      "text": "Công Phượng",
+      "type": "PER",
+      "count": 218
+    },
+    {
+      "text": "Malaysia",
+      "type": "LOC",
+      "count": 191
+    },
+    {
+      "text": "Đà Nẵng",
+      "type": "LOC",
+      "count": 168
+    },
+    {
+      "text": "Kim",
+      "type": "PER",
+      "count": 165
+    },
+    {
+      "text": "Nguyễn Filip",
+      "type": "PER",
+      "count": 140
+    },
+    {
+      "text": "Kim Sang Sik",
+      "type": "PER",
+      "count": 119
+    },
+    {
+      "text": "Đông Nam Á",
+      "type": "LOC",
+      "count": 111
+    },
+    {
+      "text": "Nam Định",
+      "type": "LOC",
+      "count": 92
+    },
+    {
+      "text": "Quang Vinh",
+      "type": "PER",
+      "count": 90
+    },
+    {
+      "text": "Buriram",
+      "type": "PER",
+      "count": 75
+    },
+    {
+      "text": "Hà Nội",
+      "type": "LOC",
+      "count": 70
+    },
+    {
+      "text": "Thái Lan",
+      "type": "LOC",
+      "count": 70
+    },
+    {
+      "text": "Cao Pendant Quang Vinh",
+      "type": "PER",
+      "count": 67
+    },
+    {
+      "text": "Buriram United",
+      "type": "PER",
+      "count": 65
+    },
+    {
+      "text": "Polking",
+      "type": "PER",
+      "count": 63
+    },
+    {
+      "text": "Thể Công",
+      "type": "PER",
+      "count": 60
+    },
+    {
+      "text": "Bình Định",
+      "type": "LOC",
+      "count": 52
+    },
+    {
+      "text": "Hải Phòng",
+      "type": "LOC",
+      "count": 52
+    },
+    {
+      "text": "Bùi Tiến Dũng",
+      "type": "PER",
+      "count": 43
+    },
+    {
+      "text": "Bùi Vĩ Hào",
+      "type": "PER",
+      "count": 42
+    },
+    {
+      "text": "Tiến Linh",
+      "type": "PER",
+      "count": 41
+    },
+    {
+      "text": "Buriram Utd",
+      "type": "PER",
+      "count": 40
+    },
+    {
+      "text": "Palestine",
+      "type": "LOC",
+      "count": 38
+    },
+    {
+      "text": "Quảng Nam",
+      "type": "LOC",
+      "count": 38
+    },
+    {
+      "text": "Nguyễn Công Phượng",
+      "type": "PER",
+      "count": 37
+    },
+    {
+      "text": "Viktor Lê",
+      "type": "PER",
+      "count": 37
+    },
+    {
+      "text": "Phượng",
+      "type": "PER",
+      "count": 36
+    },
+    {
+      "text": "Nguyễn Xuân Son",
+      "type": "PER",
+      "count": 34
+    },
+    {
+      "text": "sông",
+      "type": "LOC",
+      "count": 34
+    },
+    {
+      "text": "Thanh Hoá",
+      "type": "LOC",
+      "count": 34
+    },
+    {
+      "text": "Nguyễn Văn Toàn",
+      "type": "PER",
+      "count": 33
+    },
+    {
+      "text": "Doãn Ngọc Tân",
+      "type": "PER",
+      "count": 32
+    },
+    {
+      "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+      "type": "PER",
+      "count": 32
+    },
+    {
+      "text": "Huế",
+      "type": "LOC",
+      "count": 31
+    },
+    {
+      "text": "Vũ Văn Thanh",
+      "type": "PER",
+      "count": 29
+    },
+    {
+      "text": "Bùi Alex",
+      "type": "PER",
+      "count": 29
+    },
+    {
+      "text": "Duy Mạnh",
+      "type": "PER",
+      "count": 28
+    },
+    {
+      "text": "Bình Dương",
+      "type": "LOC",
+      "count": 28
+    },
+    {
+      "text": "Hà Tĩnh",
+      "type": "LOC",
+      "count": 28
+    },
+    {
+      "text": "châu Á",
+      "type": "LOC",
+      "count": 28
+    },
+    {
+      "text": "Văn Vĩ",
+      "type": "PER",
+      "count": 27
+    },
+    {
+      "text": "Quang Hải",
+      "type": "PER",
+      "count": 27
+    },
+    {
+      "text": "Bình Phước",
+      "type": "LOC",
+      "count": 27
+    },
+    {
+      "text": "Nguyễn Đình Triệu",
+      "type": "PER",
+      "count": 27
+    },
+    {
+      "text": "Văn Toàn",
+      "type": "PER",
+      "count": 27
+    },
+    {
+      "text": "Hoàng Đức",
+      "type": "PER",
+      "count": 26
+    },
+    {
+      "text": "TP.",
+      "type": "LOC",
+      "count": 25
+    },
+    {
+      "text": "Hai Long",
+      "type": "PER",
+      "count": 25
+    },
+    {
+      "text": "Nguyễn Thành Chung",
+      "type": "PER",
+      "count": 24
+    }
+  ]
+}

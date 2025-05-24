@@ -1,0 +1,393 @@
+2025-05-23 05:29:47,129 - __main__ - INFO - Starting Baomoi sports scraper
+2025-05-23 05:29:54,683 - __main__ - INFO - Scraping up to 200 sports articles
+2025-05-23 05:29:55,048 - app.core.crawler - INFO - Page 1: Found 42 articles
+2025-05-23 05:29:58,073 - app.core.crawler - INFO - Page 2: Found 25 articles
+2025-05-23 05:30:00,312 - app.core.crawler - INFO - Page 3: Found 15 articles
+2025-05-23 05:30:02,852 - __main__ - INFO - Analyzing article content
+2025-05-23 05:30:02,855 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,855 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,855 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,855 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,855 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,856 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,856 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,856 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,856 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,856 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,856 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,857 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,857 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,857 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,857 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,857 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,857 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,857 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,858 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,858 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,858 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,858 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,858 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,858 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,858 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,859 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,859 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,859 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,859 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,859 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,859 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,860 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,860 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,860 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,860 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,860 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,860 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,860 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,861 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,861 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,861 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,861 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,861 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,862 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,862 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,862 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,862 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,862 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,862 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,863 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,863 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,863 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,863 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,863 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,863 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,864 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,864 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,864 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,864 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,864 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,864 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,865 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,865 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,865 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,865 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,865 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,866 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,866 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,866 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,866 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,866 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,867 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,867 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,867 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,867 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,867 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,867 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,868 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,868 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,868 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,868 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,868 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:30:02,868 - __main__ - INFO - Saving results
+2025-05-23 05:30:02,869 - app.core.storage - ERROR - Failed to save articles: name 'datetime' is not defined
+2025-05-23 05:30:02,869 - __main__ - ERROR - Scraping failed: name 'datetime' is not defined
+2025-05-23 05:44:18,899 - __main__ - INFO - Starting Baomoi sports scraper
+2025-05-23 05:44:26,449 - __main__ - INFO - Scraping up to 200 sports articles
+2025-05-23 05:44:26,797 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,797 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,798 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,798 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,798 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,798 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,798 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,798 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,799 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,799 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,799 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,799 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,799 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,800 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,800 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,800 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,800 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,801 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,801 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,801 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,801 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,801 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,801 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,802 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,802 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,802 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,802 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,802 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,802 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,803 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,803 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,803 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,803 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,803 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,804 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,804 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,804 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,804 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,804 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,805 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,805 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,805 - app.core.crawler - ERROR - Error parsing article: name '_parse_article_content' is not defined
+2025-05-23 05:44:26,805 - __main__ - INFO - Analyzing article content
+2025-05-23 05:44:26,805 - __main__ - INFO - Saving results
+2025-05-23 05:44:26,805 - app.core.storage - ERROR - Failed to save articles: name 'datetime' is not defined
+2025-05-23 05:44:26,805 - __main__ - ERROR - Scraping failed: name 'datetime' is not defined
+2025-05-23 05:44:53,447 - __main__ - INFO - Starting Baomoi sports scraper
+2025-05-23 05:45:00,904 - __main__ - INFO - Scraping up to 200 sports articles
+2025-05-23 05:45:01,285 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,286 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,286 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,286 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,286 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,287 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,287 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,287 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,287 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,287 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,288 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,288 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,288 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,288 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,288 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,289 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,289 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,289 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,289 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,290 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,290 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,290 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,290 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,290 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,291 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,291 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,291 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,291 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,291 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,291 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,292 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,292 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,292 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,292 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,292 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,293 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,293 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,293 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,293 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,293 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,293 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,294 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,294 - app.core.crawler - ERROR - Error parsing article: _parse_article_content() takes 1 positional argument but 2 were given
+2025-05-23 05:45:01,294 - __main__ - INFO - Analyzing article content
+2025-05-23 05:45:01,294 - __main__ - INFO - Saving results
+2025-05-23 05:45:01,294 - app.core.storage - ERROR - Failed to save articles: name 'datetime' is not defined
+2025-05-23 05:45:01,295 - __main__ - ERROR - Scraping failed: name 'datetime' is not defined
+2025-05-23 05:45:28,356 - __main__ - INFO - Starting Baomoi sports scraper
+2025-05-23 05:45:36,053 - __main__ - INFO - Scraping up to 200 sports articles
+2025-05-23 05:45:40,654 - app.core.crawler - INFO - Page 1: Found 43 articles
+2025-05-23 05:45:44,924 - app.core.crawler - INFO - Page 2: Found 26 articles
+2025-05-23 05:45:48,726 - app.core.crawler - INFO - Page 3: Found 15 articles
+2025-05-23 05:45:51,594 - app.core.crawler - INFO - Page 4: Found 1 articles
+2025-05-23 05:45:53,904 - __main__ - INFO - Analyzing article content
+2025-05-23 05:45:54,048 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,071 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,135 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,181 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,205 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,246 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,281 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,338 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,344 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,350 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,355 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,364 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,455 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,501 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,563 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,588 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,632 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,664 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,686 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,711 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,758 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,802 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,805 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,838 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,840 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,847 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,876 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,905 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,964 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:54,983 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,015 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,037 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,066 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,138 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,158 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,200 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,227 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,256 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,292 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,329 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,379 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,402 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,420 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,441 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,476 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,497 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,535 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,572 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,574 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,599 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,601 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,608 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,640 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,669 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,740 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,764 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,796 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,820 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,852 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,921 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,940 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,972 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:55,998 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,022 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,058 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,097 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,138 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,165 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,181 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,229 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,248 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,274 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,294 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,318 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,374 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,390 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,419 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,444 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,467 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,501 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,535 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,568 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,589 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,603 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,621 - app.core.analyzer - ERROR - Error extracting entities: 'sentences'
+2025-05-23 05:45:56,621 - __main__ - INFO - Saving results
+2025-05-23 05:45:56,621 - app.core.storage - ERROR - Failed to save articles: name 'datetime' is not defined
+2025-05-23 05:45:56,621 - __main__ - ERROR - Scraping failed: name 'datetime' is not defined
+2025-05-23 05:49:40,550 - __main__ - INFO - Starting Baomoi sports scraper
+2025-05-23 05:49:48,132 - __main__ - INFO - Scraping up to 200 sports articles
+2025-05-23 05:49:52,769 - app.core.crawler - INFO - Page 1: Found 43 articles
+2025-05-23 05:49:57,667 - app.core.crawler - INFO - Page 2: Found 26 articles
+2025-05-23 05:50:02,448 - app.core.crawler - INFO - Page 3: Found 15 articles
+2025-05-23 05:50:04,773 - app.core.crawler - INFO - Page 4: Found 1 articles
+2025-05-23 05:50:06,688 - __main__ - INFO - Analyzing article content
+2025-05-23 05:50:09,238 - __main__ - INFO - Saving results
+2025-05-23 05:50:09,238 - app.core.storage - ERROR - Failed to save articles: name 'datetime' is not defined
+2025-05-23 05:50:09,238 - __main__ - ERROR - Scraping failed: name 'datetime' is not defined
+2025-05-23 05:52:03,653 - __main__ - INFO - Starting Baomoi sports scraper
+2025-05-23 05:52:11,007 - __main__ - INFO - Scraping up to 200 sports articles
+2025-05-23 05:52:15,535 - app.core.crawler - INFO - Page 1: Found 43 articles
+2025-05-23 05:52:20,869 - app.core.crawler - INFO - Page 2: Found 26 articles
+2025-05-23 05:52:25,226 - app.core.crawler - INFO - Page 3: Found 15 articles
+2025-05-23 05:52:27,472 - app.core.crawler - INFO - Page 4: Found 1 articles
+2025-05-23 05:52:30,224 - __main__ - INFO - Analyzing article content
+2025-05-23 05:52:32,812 - __main__ - INFO - Saving results
+2025-05-23 05:52:32,813 - app.core.storage - ERROR - Failed to save articles: 'Article' object has no attribute 'category'
+2025-05-23 05:52:32,813 - __main__ - ERROR - Scraping failed: 'Article' object has no attribute 'category'
+2025-05-23 05:52:59,638 - __main__ - INFO - Starting Baomoi sports scraper
+2025-05-23 05:53:07,492 - __main__ - INFO - Scraping up to 200 sports articles
+2025-05-23 05:53:12,325 - app.core.crawler - INFO - Page 1: Found 43 articles
+2025-05-23 05:53:16,644 - app.core.crawler - INFO - Page 2: Found 26 articles
+2025-05-23 05:53:20,386 - app.core.crawler - INFO - Page 3: Found 15 articles
+2025-05-23 05:53:22,920 - app.core.crawler - INFO - Page 4: Found 1 articles
+2025-05-23 05:53:24,825 - __main__ - INFO - Analyzing article content
+2025-05-23 05:53:28,279 - __main__ - INFO - Saving results
+2025-05-23 05:53:28,280 - app.core.storage - INFO - Saved 85 articles to /app/output/article_links.json
+2025-05-23 05:53:28,281 - app.core.storage - INFO - Saved 50 entities to /app/output/entity_distribution.json
+2025-05-23 05:53:28,800 - app.core.visualizer - INFO - Saved visualization to /app/output/entity_distribution.png
+2025-05-23 05:53:28,801 - __main__ - INFO - Scraping completed successfully
+2025-05-23 06:51:46,256 - __main__ - INFO - Starting Baomoi sports scraper
+2025-05-23 06:51:53,814 - __main__ - INFO - Scraping up to 200 sports articles
+2025-05-23 06:51:54,664 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T06:31:28.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:54,665 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:54,821 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T06:23:00.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:54,821 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:54,981 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T06:27:00.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:54,982 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:55,138 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T05:44:25.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:55,138 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:55,301 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T05:26:00.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:55,301 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:55,462 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T05:23:00.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:55,463 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:55,643 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T05:20:00.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:55,644 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:55,798 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T05:14:00.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:55,798 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:55,961 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T05:11:00.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:55,961 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:56,112 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T05:10:00.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:56,112 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:56,265 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T05:10:00.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:56,266 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:56,413 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T05:05:00.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:56,413 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:56,565 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T05:05:00.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:56,565 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:56,730 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T04:58:00.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:56,731 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:56,928 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T04:44:00.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:56,928 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:57,120 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T04:43:00.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:57,121 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:57,275 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T04:30:00.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:57,275 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:57,428 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T04:06:32.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:57,428 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:57,583 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T04:00:00.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:57,583 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:51:57,742 - app.core.crawler - ERROR - Error parsing article content: time data '2025-05-23T03:54:00.000Z' does not match format '%Y-%m-%dT%H:%M:%S%z'
+2025-05-23 06:51:57,742 - app.core.crawler - ERROR - Error parsing article: cannot unpack non-iterable NoneType object
+2025-05-23 06:54:02,969 - __main__ - INFO - Starting Baomoi sports scraper
+2025-05-23 06:54:10,237 - __main__ - INFO - Scraping up to 200 sports articles
+2025-05-23 06:54:19,683 - app.core.crawler - INFO - Page 1: Found 55 articles
+2025-05-23 06:54:34,349 - app.core.crawler - INFO - Page 2: Found 55 articles
+2025-05-23 06:54:48,613 - app.core.crawler - INFO - Page 3: Found 57 articles
+2025-05-23 06:55:03,106 - app.core.crawler - INFO - Page 4: Found 58 articles
+2025-05-23 06:55:05,389 - __main__ - INFO - Analyzing article content
+2025-05-23 06:55:10,729 - __main__ - INFO - Saving results
+2025-05-23 06:55:10,732 - app.core.storage - INFO - Saved 200 articles to /app/output/article_links.json
+2025-05-23 06:55:10,733 - app.core.storage - INFO - Saved 50 entities to /app/output/entity_distribution.json
+2025-05-23 06:55:11,102 - app.core.visualizer - INFO - Saved visualization to /app/output/entity_distribution.png
+2025-05-23 06:55:11,102 - __main__ - INFO - Scraping completed successfully
+2025-05-23 07:04:51,474 - __main__ - INFO - Starting Baomoi sports scraper
+2025-05-23 07:04:59,057 - __main__ - INFO - Scraping up to 200 sports articles
+2025-05-23 07:05:08,770 - app.core.crawler - INFO - Page 1: Found 55 articles
+2025-05-23 07:05:19,446 - app.core.crawler - INFO - Page 2: Found 54 articles
+2025-05-23 07:05:30,503 - app.core.crawler - INFO - Page 3: Found 56 articles
+2025-05-23 07:05:42,193 - app.core.crawler - INFO - Page 4: Found 57 articles
+2025-05-23 07:05:44,233 - __main__ - INFO - Analyzing article content
+2025-05-23 07:05:50,358 - __main__ - INFO - Saving results
+2025-05-23 07:05:50,361 - app.core.storage - INFO - Saved 200 articles to /app/output/article_links.json
+2025-05-23 07:05:50,362 - app.core.storage - INFO - Saved 50 entities to /app/output/entity_distribution.json
+2025-05-23 07:05:50,818 - app.core.visualizer - INFO - Saved visualization to /app/output/entity_distribution.png
+2025-05-23 07:05:50,818 - __main__ - INFO - Scraping completed successfully
+2025-05-23 07:10:56,762 - __main__ - INFO - Starting Baomoi sports scraper
+2025-05-23 07:11:03,947 - __main__ - INFO - Scraping up to 200 sports articles
+2025-05-23 07:11:13,834 - app.core.crawler - INFO - Page 1: Found 55 articles
+2025-05-23 07:11:25,775 - app.core.crawler - INFO - Page 2: Found 54 articles
+2025-05-23 07:11:38,448 - app.core.crawler - INFO - Page 3: Found 56 articles
+2025-05-23 07:11:50,815 - app.core.crawler - INFO - Page 4: Found 57 articles
+2025-05-23 07:11:53,618 - __main__ - INFO - Analyzing article content
+2025-05-23 07:11:59,206 - __main__ - INFO - Saving results
+2025-05-23 07:11:59,209 - app.core.storage - INFO - Saved 200 articles to /app/output/article_links.json
+2025-05-23 07:11:59,210 - app.core.storage - INFO - Saved 50 entities to /app/output/entity_distribution.json
+2025-05-23 07:11:59,564 - app.core.visualizer - INFO - Saved visualization to /app/output/entity_distribution.png
+2025-05-23 07:11:59,564 - __main__ - INFO - Scraping completed successfully

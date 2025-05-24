@@ -6,6 +6,7 @@ from app.models.article import Article
 from app.models.entities import Entity
 from app.utils.logger import setup_logger
 from config import settings
+from app.utils.exceptions import StorageError
 
 logger = setup_logger(__name__)
 
@@ -39,7 +40,8 @@ class JSONStorage:
             
         except Exception as e:
             logger.error(f"Failed to save articles: {e}")
-            raise
+            raise StorageError(f"Failed to save articles {articlesl}")
+
 
     def save_entities(self, entities: List[Entity]):
         """Save entity analysis to JSON"""
@@ -67,4 +69,4 @@ class JSONStorage:
             
         except Exception as e:
             logger.error(f"Failed to save entities: {e}")
-            raise
+            raise StorageError(f"Failed to save entities {entities}")

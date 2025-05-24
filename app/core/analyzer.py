@@ -6,6 +6,7 @@ import py_vncorenlp
 from app.models.entities import Entity, EntityType
 from app.utils.logger import setup_logger
 from config import settings
+from app.utils.exceptions import AnalysisError
 
 logger = setup_logger(__name__)
 
@@ -33,7 +34,7 @@ class NERAnalyzer:
             return entities
         except Exception as e:
             logger.error(f"Error extracting entities: {e}")
-            return []
+            raise AnalysisError(f"Error extracting entities {text}")
 
     def analyze_articles(self, articles: List[str]) -> List[Entity]:
         entity_counter = Counter()

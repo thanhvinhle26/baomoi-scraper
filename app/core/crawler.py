@@ -39,7 +39,7 @@ class BaomoiCrawler:
             return title_text, body_text, article_time
         except Exception as e:
             logger.error(f"Error parsing article content: {e}")
-            return None
+            raise CrawlerError(f"Failed parse article content {url}")
 
     def _parse_article(self, article_div) -> Optional[Article]:
         try:   
@@ -60,7 +60,7 @@ class BaomoiCrawler:
                 )
         except Exception as e:
             logger.error(f"Error parsing article: {e}")
-            return None
+            raise CrawlerError(f"Failed to crawl article {article_div}")
 
     def crawl_page(self, page_num: int) -> list[Article]:
         try:
